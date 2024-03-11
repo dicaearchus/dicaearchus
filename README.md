@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi there 👋 I am Bas Altena
 
-<!--
-**dicaearchus/dicaearchus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:brunotacca@gmail.com?subject=Hey%20Bas%20Altena"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/baasaltena/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr/>
+
+<details>
+  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <br/>
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Matlab](https://img.shields.io/badge/MATLAB-skyblue?style=flat&logo=MATLAB&logoColor=394049)
+![AutoHotKey](https://img.shields.io/badge/AUTOHOTKEY-%23007ACC.svg?&style=flat&logo=autohotkey&logoColor=white)&nbsp;\
+
+</details>
+
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=dicaearchus&hide_border=true&theme=vue" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=dicaearchus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicaearchus&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
+
+<hr/>
+
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=dicaearchus&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/dicaearchus/dicaearchus?color=black&logo=github" />
+</p>
+
